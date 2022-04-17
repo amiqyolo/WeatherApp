@@ -7,3 +7,8 @@ Clone Repository and Import on Android Studio
 ``````
   https://github.com/amiqyolo/WeatherApp.git
 ``````
+Use Api Service
+
+``````
+https://goweather.herokuapp.com/
+``````
